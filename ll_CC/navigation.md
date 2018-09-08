@@ -20,7 +20,9 @@
   -->
 
 [About](pages/about.md)
+[Glossary] (pages/glossary.md)
 [Download](pages/download.md)
+
 
 <!-- A more complex navigation example: ----------------------------------------
 
