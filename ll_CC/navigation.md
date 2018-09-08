@@ -20,7 +20,7 @@
   -->
 
 [About](pages/about.md)
-[Glossary] (pages/glossary.md)
+[Glossary](pages/glossary.md)
 [Download](pages/download.md)
 
 
