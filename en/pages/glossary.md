@@ -23,6 +23,9 @@ Atoms of identical Z (atomic number) but differing A (atomic mass number) are ca
 ## R
 ## S
 ## T
+### Threshold energy for a nuclear reaction 
+The smallest value of a projectile’s kinetic energy at which a nuclear reaction can take place. 
+[<a href = https://www-pub.iaea.org/mtcd/publications/pdf/pub1196_web.pdf>RO</a> p. 16]
 ## U
 ## V
 ## W
