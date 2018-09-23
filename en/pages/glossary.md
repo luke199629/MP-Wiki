@@ -11,7 +11,7 @@
 ## I
 ### Isotope
 Atoms of identical Z (atomic number) but differing A (atomic mass number) are called isotopes of a given element. 
-[<a href = https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1617web-1294055.pdf>NM</a> p. 11]
+[<a href = https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1617web-1294055.pdf>NM</a> p. 11] MEDPHY 500
 ## J
 ## K
 ## L
@@ -25,7 +25,7 @@ Atoms of identical Z (atomic number) but differing A (atomic mass number) are ca
 ## T
 ### Threshold energy for a nuclear reaction 
 The smallest value of a projectile’s kinetic energy at which a nuclear reaction can take place. 
-[<a href = https://www-pub.iaea.org/mtcd/publications/pdf/pub1196_web.pdf>RO</a> p. 16]
+[<a href = https://www-pub.iaea.org/mtcd/publications/pdf/pub1196_web.pdf>RO</a> p. 16] MEDPHY 500
 ## U
 ## V
 ## W
