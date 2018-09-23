@@ -16,6 +16,9 @@ Atoms of identical Z (atomic number) but differing A (atomic mass number) are ca
 ## K
 ## L
 ## M
+### Myocardium
+The thickest layer of the heart made of pure muscle and it gets damaged during a heart attack. It makes up the bulk of the heart.
+[<a href = https://florida.theorangegrove.org/og/file/2d684c74-16c7-54be-f3cf-1a380b19e4d1/1/bbtraining.zip/instructional_design/12Leads/05.htm>Link</a>] MEDPHY 505
 ## N
 ## O
 ## P
