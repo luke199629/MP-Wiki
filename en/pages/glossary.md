@@ -5,6 +5,12 @@
 ## C
 ## D
 ## E
+### Endocardium
+The thin layer of tissue heart that lines the heart’s chambers and valves. The cardiac conduction system is located in this layer of the heart.
+[<a href = https://florida.theorangegrove.org/og/file/2d684c74-16c7-54be-f3cf-1a380b19e4d1/1/bbtraining.zip/instructional_design/12Leads/05.htm>Link</a>] MEDPHY 505
+### Epicardium
+Visceral Pericardium.
+[<a href = https://florida.theorangegrove.org/og/file/2d684c74-16c7-54be-f3cf-1a380b19e4d1/1/bbtraining.zip/instructional_design/12Leads/05.htm>Link</a>] MEDPHY 505
 ## F
 ## G
 ## H
@@ -22,6 +28,9 @@ The thickest layer of the heart made of pure muscle and it gets damaged during a
 ## N
 ## O
 ## P
+### Pericardium
+The sac that encloses the heart. It is also known as the outermost layer of the heart.
+[<a href = https://florida.theorangegrove.org/og/file/2d684c74-16c7-54be-f3cf-1a380b19e4d1/1/bbtraining.zip/instructional_design/12Leads/05.htm>Link</a>] MEDPHY 505
 ## Q
 ## R
 ## S
