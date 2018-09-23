@@ -31,6 +31,12 @@ The thickest layer of the heart made of pure muscle and it gets damaged during a
 ### Pericardium
 The sac that encloses the heart. It is also known as the outermost layer of the heart.
 [<a href = https://florida.theorangegrove.org/og/file/2d684c74-16c7-54be-f3cf-1a380b19e4d1/1/bbtraining.zip/instructional_design/12Leads/05.htm>Link</a>] MEDPHY 505
+### Pulmonary artery
+An artery in the pulmonary circulation that carries deoxygenated blood from the right side of the heart to the lungs.
+[<a href = https://en.wikipedia.org/wiki/Pulmonary_artery>Wikipedia</a>] MEDPHY 505
+### Pulmonary vein
+The pulmonary veins are the veins that transfer oxygenated blood from the lungs to the heart. 
+[<a href = https://en.wikipedia.org/wiki/Pulmonary_vein>Wikipedia</a>] MEDPHY 505
 ## Q
 ## R
 ## S
