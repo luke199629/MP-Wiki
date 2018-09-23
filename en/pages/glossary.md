@@ -1,6 +1,9 @@
 # Glossary
 
 ## A
+### Aorta
+The main artery in the human body, originating from the left ventricle of the heart and extending down to the abdomen, where it splits into two smaller arteries (the common iliac arteries). The aorta distributes oxygenated blood to all parts of the body through the systemic circulation.
+[<a href = https://en.wikipedia.org/wiki/Aorta>Wikipedia</a>] MEDPHY 505
 ## B
 ## C
 ## D
@@ -15,6 +18,12 @@ Visceral Pericardium.
 ## G
 ## H
 ## I
+### Inferior vena cava
+The inferior vena cava (or IVC) is a large vein that carries deoxygenated blood from the lower and middle body into the right atrium of the heart. Its walls are rigid and has valves so the blood does not flow down via gravity. It is formed by the joining of the right and the left common iliac veins, usually at the level of the fifth lumbar vertebra.
+
+The inferior vena cava is the lower ("inferior") of the two venae cavae, the two large veins that carry deoxygenated blood from the body: the inferior vena cava carries blood from the lower half of the body whilst the superior vena cava carries blood from the upper half of the body.
+[<a href = https://en.wikipedia.org/wiki/Inferior_vena_cava>Wikipedia</a>] MEDPHY 505
+
 ### Isotope
 Atoms of identical Z (atomic number) but differing A (atomic mass number) are called isotopes of a given element. 
 [<a href = https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1617web-1294055.pdf>NM</a> p. 11] MEDPHY 500
