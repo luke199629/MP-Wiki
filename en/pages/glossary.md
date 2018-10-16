@@ -6,8 +6,11 @@ The main artery in the human body, originating from the left ventricle of the he
 
 [<a href = https://en.wikipedia.org/wiki/Aorta>Wikipedia</a>] MEDPHY 505
 ## B
+Placeholder
 ## C
+Placeholder
 ## D
+Placeholder
 ## E
 ### Endocardium
 The thin layer of tissue heart that lines the heart’s chambers and valves. The cardiac conduction system is located in this layer of the heart.
@@ -18,8 +21,11 @@ Visceral Pericardium.
 
 [<a href = https://florida.theorangegrove.org/og/file/2d684c74-16c7-54be-f3cf-1a380b19e4d1/1/bbtraining.zip/instructional_design/12Leads/05.htm>Link</a>] MEDPHY 505
 ## F
+Placeholder
 ## G
+Placeholder
 ## H
+Placeholder
 ## I
 ### Inferior vena cava
 The inferior vena cava (or IVC) is a large vein that carries deoxygenated blood from the lower and middle body into the right atrium of the heart. Its walls are rigid and has valves so the blood does not flow down via gravity. It is formed by the joining of the right and the left common iliac veins, usually at the level of the fifth lumbar vertebra.
@@ -33,15 +39,20 @@ Atoms of identical Z (atomic number) but differing A (atomic mass number) are ca
 
 [<a href = https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1617web-1294055.pdf>NM</a> p. 11] MEDPHY 500
 ## J
+Placeholder
 ## K
+Placeholder
 ## L
+Placeholder
 ## M
 ### Myocardium
 The thickest layer of the heart made of pure muscle and it gets damaged during a heart attack. It makes up the bulk of the heart.
 
 [<a href = https://florida.theorangegrove.org/og/file/2d684c74-16c7-54be-f3cf-1a380b19e4d1/1/bbtraining.zip/instructional_design/12Leads/05.htm>Link</a>] MEDPHY 505
 ## N
+Placeholder
 ## O
+Placeholder
 ## P
 ### Pericardium
 The sac that encloses the heart. It is also known as the outermost layer of the heart.
@@ -56,16 +67,26 @@ The pulmonary veins are the veins that transfer oxygenated blood from the lungs 
 
 [<a href = https://en.wikipedia.org/wiki/Pulmonary_vein>Wikipedia</a>] MEDPHY 505
 ## Q
+Placeholder
 ## R
+Placeholder
 ## S
+Placeholder
 ## T
+Placeholder
 ### Threshold energy for a nuclear reaction 
 The smallest value of a projectile’s kinetic energy at which a nuclear reaction can take place. 
 
 [<a href = https://www-pub.iaea.org/mtcd/publications/pdf/pub1196_web.pdf>RO</a> p. 16] MEDPHY 500
 ## U
+Placeholder
 ## V
+Placeholder
 ## W
+Placeholder
 ## X
+Placeholder
 ## Y
+Placeholder
 ## Z
+Placeholder
