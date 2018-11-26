@@ -31,6 +31,10 @@ Atoms of identical Z (atomic number) but differing A (atomic mass number) are ca
 [NM] p.11 MEDPHY 500
 ## J-L
 ## M-O
+### MRI
+Refer to the brief introduction on MRI.
+
+[Link](http://casemed.case.edu/clerkships/neurology/web%20neurorad/mri%20basics.htm)
 ### Myocardium
 The thickest layer of the heart made of pure muscle and it gets damaged during a heart attack. It makes up the bulk of the heart.
 
