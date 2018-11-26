@@ -32,7 +32,7 @@ Atoms of identical Z (atomic number) but differing A (atomic mass number) are ca
 ## J-L
 ## M-O
 ### MRI
-Refer to the brief introduction on MRI.
+Magnetic Resonance Imaging. Refer to the brief introduction on MRI.
 
 [Link](http://casemed.case.edu/clerkships/neurology/web%20neurorad/mri%20basics.htm)
 ### Myocardium
