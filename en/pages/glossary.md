@@ -44,6 +44,11 @@ The thickest layer of the heart made of pure muscle and it gets damaged during a
 Refer to the link for why neutrons in a nucleus are stable.
 
 [Link](http://www.sjsu.edu/faculty/watkins/neutronnucleus.htm)
+
+### Neutron Activation
+Neutron activation is the process in which neutron radiation induces radioactivity in materials, and occurs when atomic nuclei capture free neutrons, becoming heavier and entering excited states. The excited nucleus often decays immediately by emitting gamma rays, or particles such as beta particles, alpha particles, fission products, and neutrons (in nuclear fission). 
+
+[Wikipedia](https://en.wikipedia.org/wiki/Neutron_activation)
 ## P-R
 ### Pericardium
 The sac that encloses the heart. It is also known as the outermost layer of the heart.
